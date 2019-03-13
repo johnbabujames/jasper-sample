@@ -7,6 +7,7 @@ Basics on JasperReports
 
 Creating Data Adapter:
 Data Adapter is the data source connection that we will have to establish to run the report.
+![1](https://user-images.githubusercontent.com/32309517/54247173-4ae6a900-450e-11e9-9482-4c7368a85dd3.jpg)
  
 
 Data Adapter Options:
