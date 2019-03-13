@@ -102,3 +102,7 @@ Output Generated As below.
  1.	You need to place the MyFirstReport.jrxml into your local repository which available under resources/templates
  2.	Update the your local path in ReportingServiceImpl.java
  
+Resources:
+https://www.tutorialspoint.com/jasper_reports/
+https://o7planning.org/en/10271/jasperreport-tutorial-for-beginners
+https://o7planning.org/en/10293/calling-jasper-report-from-java-application
