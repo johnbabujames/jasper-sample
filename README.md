@@ -98,4 +98,7 @@ You can drag and drop the components you want.
 Output Generated As below.
 ![14](https://user-images.githubusercontent.com/32309517/54247261-a9138c00-450e-11e9-9828-788bd452db0f.jpg)
 
+ Notes: 
+ 1.	You need to place the MyFirstReport.jrxml into your local repository which available under resources/templates
+ 2.	Update the your local path in ReportingServiceImpl.java
  
